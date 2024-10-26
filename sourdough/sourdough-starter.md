@@ -1,4 +1,4 @@
-# Creating a Sourdoug Starter
+# Creating a Sourdough Starter
 
 It takes about 7 to 10 days to create a new starter from scratch. It's also a bit hit-and-miss, uses quite a lot of flour, and you end up dumping 50% of your creation every day. If someone you know has one, beg them for some, as it'll be the right consistency and you know it's ready to bake with.
 

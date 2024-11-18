@@ -1,0 +1,1568 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+\documentclass[
+]{article}
+\usepackage{xcolor}
+\usepackage{amsmath,amssymb}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\author{}
+\date{}
+
+\begin{document}
+
+\section{LONDON: CITY OF
+DISAPPEARANCES}\label{london-city-of-disappearances}
+
+\subsection{SOUTH OF THE RIVER}\label{south-of-the-river}
+
+\subsubsection{UNEARTHING}\label{unearthing}
+
+Disappearing. Disconnecting all the visual cues that advertise the
+presence of a mind, a self that's here somewhere, already hidden. One
+way this may be accomplished, a technique he's previously playground
+bully-rested, is by standing still ideally in some liminal location, in
+some threshold area, sheltering wall that edged the school-yard, cavern,
+hilltop, city limit, spaces between world and under-world, skyline and
+sky, streetlights and wilderness. Don't move. For almost sixty years
+don't move. Stand still and turn to urban furniture, to your own
+monument, to landscape. Bypass all the cultural motion sensors, become
+sub- or supra-liminal, white noise on the surveillance footage. In the
+country of the blind the one-eyed man is king, and, better yet,
+invisible. \PAR
+Steve Moore, sat in the armchair opposite his bed with ballpoint
+pen and notepad, spiral bound, neat sloping capitals, each line a blue
+queue leaning forward, barely masking their impatience, as the
+book-crammed room around him pales unnoticed into dusk there on the top
+of Shooters Hill. Man with a foolish grin, perfectly still, as failing
+light adjusts to match his ash-slide hair, to match the wet-slate gleam
+his skin has, the South London moontan. Slowly, the defining edge is
+lost in grey on grey, a photo undeveloping. The textures vanish in
+obliterating gloss, details excuse themselves. Fine wrinkles spreading
+from the corners of his eyes, curved up around the brow, curved down
+around the cheekbones, face like a magnetic field. All this erased and
+then the body outline fades, the slight frame that conspires with
+posture to seem even slighter, basically an Adam's apple and its support
+system, melted, gone into the darkening of the cosy room, the manhutch
+with its pagan icon huddle.Finally the only light is this of the
+metropolis, the great black garden of a million flowers on fire spread
+supine and magnificent below his rear, north-facing bedroom window. This
+and moonlight. \PAR
+Black on silver-dusted black the hill pokes up its positive yang
+terminal into the night's electrolyte, plated across the centuries with
+urban dream in a metallic rind. Seabed before the ice age, residues of
+fossil night-sweat crown the tumulus, a cradle-cap of gravel sheltering
+the clay and chalk beneath while all around wore down to lowland, marine
+aeons half-remembered still in seaside decors that incongruously dot the
+closes and steep lanes. Its sicked-shaped mass crystal-shot with
+\emph{Selenites Rhomboidalis}, Shooters Hill is dreaming London,
+dreaming London up: low on its northern slope a chalk Fault that
+collapsed creating the Thames valley, gouging out a life sump for the
+Neolithic swill to fill, the pallid Morlock scum, chalk-mining chavs
+blowing their barter on bone blind in settlements at Plumstead,
+Woolwich, barnacled below the sleeping hill's north flank. Part of a
+queasy hypnagogic swirl erupting from its moonstone synapses the Stone
+Age shacks and faces flow like liquid, an accelerated morph seen from
+its geological perspective, turning into Bronze Age fishing villages and
+Trinovante squints. Riff-raff gets buried under middling heaps at
+Blackheath, kings and chieftains in great mounds up on the hilltop,
+sacred bulges on the hunched horizon. Five of these were flattened when
+they built the Lang Estate in the late 1930s but still one remains, a
+railed-off and grassed-over hump there at the junction of Plum Lane and
+Brinklow Crescent, sole surviving god of Shooters Hill and also
+dreaming, underneath the yellow weeds. Down on the far side is the
+boundary where the dream ends. Kent begins, and London disappears. \PAR
+Back in the bedroom of the house where he's lived all his life,
+Steve Moore lies facing shelves of I Ching reference volumes, fast
+asleep on his right side so as to soothe that faltering gurgle in the
+ventricles, not half a dozen paces from the spot where he was born.
+Close to his face, upon a book-bare ledge, stands framed the gem-like
+miniature he painted during April 1989, a portrait of Selene, Greek moon
+goddess, moon herself, naked and white, the sable-stippled cunt, the
+eyes and lips that seem to move beneath the glass fogged by a silver
+aerosol, his every night-breath. There beside the picture rests the
+notepad and the ballpoint pen. Waking to dark or dawn's stone-blue he'll
+scrawl his dreams down, key words, phrases, image-prompts for later when
+they'll be typed up in full and added to the ring-bound stack, the log
+of an alternate life meticulously kept for more than thirty years with
+earlier entries dating from his childhood, messages from otherworldly
+scientists with winsome daughters on the planet Uniceptor IV. Faint
+tremors in balloon-thin eyelid skin betray the alien jostle taking place
+below, the nightlife. Skimming frictionless, his shoe-soles half an inch
+above the paving slabs, he slips through lamp-lit streets, disturbing
+analogues of those he grew among, walks to this day. To lift the plain
+black cover of a dream-file is to fretfully peel back a rectangle of
+tarmac from the skin of the locale, exposing a new stratum, laying bare
+a shadow neighbourhood beneath and making audible the creepy chat of
+shadow neighbours, ghost-train gossip, twilight ideologies. \PAR
+He dreams the hill with different weather and new cellars. Giant
+roses hanging in the night sky over Plumstead or pellucid covered
+markets under Blackheath. The unnerving day-deserted cul-de-sacs and the
+8,000-year-old woodlands just across the humming road become the sets of
+strange pre-title sequences for lost \emph{Avengers} episodes. Diana
+Rigg, dead relatives and Hong Kong action movie stars move purposeful
+and sinister through semi-detached situations under lead skies. Elevator
+doors shrug shut before the lift slides sideways through unfathomable
+offices. Loveable horrors squirming in the garden pond. He takes a shit
+on the top deck of a 486 bus labouring towards the crest, sees roadside
+excavations of unearthly marble, massive buried architectures in a style
+he knows from some-where, Greek or Babylonian Art Nouveau. He dreams a
+goatman, small and black, lounging insouciantly atop the back path's
+midnight hedge. He dreams his room, he dreams the three-by-five-inch
+portrait of the goddess within misting distance of his slumbering lips.
+He dreams the hill. The hill dreams London. \PAR
+Arced across its crown is Watling Street, is Shooters Hill Road,
+the old Dover Road, along which channel the transforming energies leak
+in, foam downhill to engulf the capital. Julius Caesar's brief
+exploratory sortie during 55 BC had its first sight of the new
+principality from here, as did Agricola's more serious invasion force
+that followed later by almost a century. The same hushed apprehensions
+of a vast and brilliant counterpane below, untidily tucked under at the
+far horizon, messy and unmade, the river's copper ribbon spooled across
+it, crumpling towards the east and settlements like biscuit crumbs. The
+three great woods, Jack, Castle, Oxleas, rolling up the hill in black
+iron wave-fronts, smashing in a pale green spray across the peak and
+into Kent. Briefly, amid its breathless fluid rumble of alarming images,
+the hill hallucinates a filigree of Roman ideology, a loosely outlined
+golden threadwork stitched half-heartedly into the landscape's quilt,
+immediately unpicked, un-ravelled in a pungent woolly tangle of new
+Saxon place names, Eltham, Charlton, Plumstead, Woolwich, Welling.
+Sheters Hill? The road becomes a drovers' track, an overloaded artery to
+pump the meat and money up, the massive herds a grubby, lousy scarf
+wound out along its length. The gas-fat crowbait fallen into wayside
+ditches blurs to grease and blowflies, melts into the rockdream's rush
+and flicker, the frenetic lantern-show erupting in chalk scribbles,
+boiling clay, out of a subterrene unconscious, flash-frames in the
+blackened-out skull theatre of a buried Bronze Age god. \PAR
+Jet coral, London is accumulated, squirms and grows in the
+detached gaze of the vantage. Royal successions in a strobe of ermine.
+On the cow track swarming spectres crackle into being and as soon are
+vanished, blazing specks and filaments scratched white upon the film's
+emulsion. Out a-Maying with one of his Catherines, Henry VIII attends a
+Robin Hood Fair, Shooters hill as medieval theme park, and meets players
+dressed as Robin, Friar Tuck, Will Scarlet, Bashful, Goofy. Soon
+thereafter Anne of Cleves crosses the hill and is immediately sent
+packing back the same way, failing to live up to the Hans Holbein PR
+package that preceded her. Archery ranges smeared across the lower
+slopes towards the east provide the shooters who will either give the
+hill its name or else will lend that name a spurious justification, and
+the sixteenth century whistles by, a rattling sideways rain of arrows. \PAR
+At the ragged edges of Elizabethan London's proto-psychedelic
+swoon, murderers blossom on the steep road's wooded margins, springing
+up around the base of the armada beacon raised in 1588, cutpurses
+ripening to cut-throats, claret splashed across the turnpike and,
+inevitably, a new nickname: Hill of Blood, a missing psychotropic flick
+from Herschel Gordon Lewis, William Castle. Agent Orange options are
+employed to thin the bandit cover. Come the 1600s and the shearing of
+the hill commences, north side gradually reduced to Roundhead stubble.
+Come the eighteenth century and building starts, the place's
+fever-visions crystallized to lines and corners, brick growths thrusting
+through the shaven scalp, the coronet materializing one point at a time.
+First inns arrive, providing watering holes for drovers, boltholes for
+the highwaymen, and holes in general. Fanny on the Hill, the Catherine
+Wheel, Sun in the Sands, and then in 1749 the crowning glory of the
+Bull, palatial edifice erected on the summit with its glittering
+pleasure gardens, with its wells and fields and stables, its star chef
+and its extensive cellars. \PAR
+Sumptuous hostelries and god-like view now make the dreaming hill
+itself a focal point for human aspirations, human dreams, as inns are
+followed by the follies, haunts and halls of hubris-sozzled toffs
+groping towards Olympus. Princess Charlotte dwells at Shrews-bury House,
+face underlit a ghostly scarab green by bubbling glass retorts, a first
+stab at extracting gas from coal. A little further down the hillside to
+the east, in the still-wooded reaches south of Watling Street, the widow
+of Sir William James raises a single-turret castle, Severndroog, in
+1784, commemorating her late husband's naval victory over the pirate
+chieftain Conagee Angria at his Malabar coast sea-fort thirty years
+before. The tower looms up to peer between the treetops at the city
+spread below, brass sight-lines set into its wooden crow's-nest rail
+aligned with distant London monuments, with neighbouring counties,
+watching for the brigand hordes that may one day seethe from the
+backed-up drain of the metropolis, engulf the hill in rum, bum,
+concertina, cheap accessories. Just up the road, the Lidgbird family are
+owners of the land on which the Bull is standing, with their stately
+pile Broom Hall next door and on the right, while at the hill's foot by
+the gallows and the gibbet-fields are former Neolithic camps
+accumulating mass and muscle, the Royal Arsenal and Royal Artillery in
+Woolwich from the kick-off of the eighteenth century. Burned-powder
+notes perfume the nagging westerly, spark flintlock images of plunder,
+war and revolution in the free-associating stone subconscious, in its
+perilous, delirious mix. \PAR
+Always a touchstone of imaginings and point of moonrise for the
+ancient settlements, their dead kings hulking from its turf, the heap
+attracts new fictions now. Already a collage of other men's exploits and
+novelists' inventions, the Dick Turpin story is attached to Shooters
+Hill, the Essex Boy misplaced in a confusion over rumoured hiding places
+deep in nearby woods. Then, at the century's end during the 1790s,
+Sydney Carton's Dover-bound coach founders in the mudslide up towards
+the brink, its passengers dismounting terrified on the notorious
+bloodhill, made hysterically blind to the glaring façade of the Bull
+Inn, there at the peak for more than forty years by then. The fictions
+come, and next the fiction-mongers. During 1800, Wordsworth, barely
+thirty, has his cottage overlooking Woolwich Common underneath the hill,
+and as the villas of the middle classes start to fill the spaces between
+the hilltop mansions in the early nineteenth century, Algernon
+Blackwood's future family home and birthplace buds among them. The new
+residents are prisoners in fairyland, commuters waiting for a train of
+neon rollergirls to carry them Starlight Express into eternity. They
+line up at the mounting block, stood knee-deep in a fertile scurf of
+faltered social visions, different fictions, no less wistful. Shooters
+Hill as healing spa or even enclave hilltop town, as site of a colossal
+pyramid, titanic mausoleum for the nation's Titan dead. The slowly
+spreading actual homes and streets, unwittingly, invariably, sink
+foundations deep into a pre-existent dreamcrust. \PAR
+Steve Moore sleeps on wrinkled bedsheets made of a sand beneath
+Silurian seas. He sleeps, a dim encysted mass within the glacier ice, or
+cradled in the highest boughs of prehistoric forest. Mumbling, he rolls
+over into servant quarters in Broom Hall's east wing before the walls
+dissolve, are realigned into those of the quiet semi he shares with his
+elder brother, with his goddess, with his books, his work. The closed
+eyes, wearing an absence of spectacles, a hand pressed bloodless,
+tingling, between his knees and worlds away the woman-next-door's hall
+clock chimes another quarter-hour with brisk and brass enthusiasm
+inappropriate to the drowsing moment. Ageing-paper perfumes stew and
+simmer at the threshold of aware-ness, and the soft trough between lower
+lip and front teeth silts with curds of mango pulps, its citrus flinch
+smoothed into a thick equatorial honey, sweet and rounded as a Gauguin
+buttock. Everything he is, his biologic destiny, his father's stroke
+approaching that eighth hole, blood histories, his code embroidered on
+the pillow s edge in spittle threads. \PAR
+Back in the 1880s his paternal great-grandfather is in Dublin
+putting down the Fenians, his granddad born there in the barracks to a
+mortal term obscure and brief, ended in 1919 with his eldest son,
+eleven-year-old Arthur James, becoming breadwinner. He never takes to
+`Arthur', more a cleared throat than a name, preferring Jim. Hurries to
+work through Charlton's winter streets, head down, ears aching with the
+chill and mesmerized by his own schoolboy shoes, their rhythm on the
+pavement with its suede of frost, unable to believe this is his life,
+Frederick Boehm's, the company producing paper-size in Belvedere there
+on the river, just past Plumstead, just past Welling. Panting with the
+pace he leaves his breath behind him, frozen dragon embryos suspended in
+the dark and biting air. \PAR
+More than a decade later, Jim's still with the same firm when
+their fit new secretary starts, Winifred Mary Decks, nine years his
+junior, a tidy little bit of posh from the sedate, disrupted borderlands
+where New Cross bleeds to Lewisham. She can't stand Winifred, all wisps
+and webs and spiders in the wedding cake, sticking with Mary. Delicate
+and lovely, paper in her blood with printers somewhere in the background
+stir and older brother, Francis, in Naval Intelligence while younger
+sibling, Donald, works his way up through the ranks at Foyles, ends up
+as a distributor of academic publications specializing in the Orient.
+They're stepping out together before long and Jim with his own family
+tree all guncotton and powder-burns hardly believes his luck. They wed
+in 1937 and start looking for a place to live, somewhere that's safe and
+self-contained above the grime and hustle and their eyes drift upwards
+inexorably towards the hilltop, where the sky fast-forwards into black
+and the full moon launches itself in ambush behind the summit, flies up
+at the throat of night. \PAR
+They find their des res in a muted cul-de-sac just opposite the
+melancholic front of the Memorial Hospital, erected circa 1920 on the
+side of the old Admiralty Telegraph where windmill vanes once clacked
+their urgent semaphore. New house, one of those knocked up in the 1930s
+where Broom Hall had stood, a previous owner bolted after eighteen
+months, no reason given. Jim and Mary take up occupation here in 1938, a
+perfect fit with the \emph{Mrs Dale's Diary} ambience. Peace and quiet,
+a cousin on the Moore side of the family moved in next door and forest
+just across the Dover Road, itself barely a murmur. Future stretched
+secure before them and both of an age where all of this could still turn
+out to be a song, a Ronald Colman film, a musical, Darby and Joan who
+once were Jack and Jill. The hopes and dreams come with the elevation,
+then, within a year, so does the Luftwaffe. \PAR
+The Roman observation point is now the highest land between Berlin
+and London. Jim, his father's barrack-room nativity just one twist
+further down the helical ancestral staircase, mans the rocket battery
+that's stationed on the golf course, uphill from the former
+gibbet-fields. Phosphorus tracers hyphenating giant blackness, boom and
+siren, recoil shuddering the green and distant firebursts pluming from
+the cower of the city. Their sole kill disputed, shared with other guns,
+the battery claims to have brought down only half a bomber: one-winged
+like a sycamore pod, just commencing its erratic spiralling descent on
+London when the rockets hit, the pilot's startled profile clearly
+visible in the exposed cross-section cockpit, open to an iron wind.
+Battle of Britain over with, the couple feel they can relax, allow
+themselves a modest and celebratory drink of future. First son,
+Christopher, arrives in 1943, spit of his dad, then 1944 and V-bombs,
+many of which fail to clear the hill. British Intelligence is leaking
+fake reports to Germany of rockets overshooting London, hoping that
+they'll underestimate instead and hammer Kent rather than Wi. Back on
+Shot-Over Hill there's charred gaps, sudden spaces in the uniformly
+1930s rows where architectural incongruities will one day rise from
+scorched earth. Shooters Hill becomes a surprise pot of bricks and offal
+at the far end of gravity's rainbow. Two doors down gets taken out while
+Jim is bathing. Bathroom ceiling comes down all in one piece, trapping
+him there in the tub but sparing him the rain of roof and chimney that
+immediately follows. That could have so easily been that, Mary as a
+single parent, Chris an only child, and all the wave of possibility to
+come collapsed there into suds and rubble on the sopping lino. \PAR
+Even with the war's end, understandably, the pair decide to wait
+and see if there are any more surprises \ldots{} Nazi flying saucers
+piloted by Hitler's brain, Fourth Reich mole-machines erupting through
+the pavement from the hollow earth beneath \ldots{} before they risk
+another child. Stephen James Moore is born to a full moon on I June
+1949, a crescent mark staining his forearm, there upon the crescent
+hill. Gemini, like his brother. Fire of air, the tarot Knight of Swords,
+the intellectual faculty in its most pristine and idealized aspect,
+almost mint condition on account of having been so seldom taken from its
+box and played with in the human mud. The corresponding tarot trump is
+number six, the Lovers, the alchemic principle of \emph{Solvé}, or
+analysis. Of separation. Name the baby Stephen, with the name deriving
+from `stephane', a type of crown usually favoured by Greek goddesses,
+most notably their lunar deity. His earliest memory is of 20 September
+the next year, 1950, fifteen months old, held up by his mother to look
+at a bright blue moon, this famous rarity occasioned by vast tracts of
+forest then ablaze in Canada. He will remember this for years, but as a
+dream, like floating slowly down the stairs into the hallway's umber, or
+the skeletal, androgynous old woman, lower face concealed by a bandanna,
+who unpeels into malign existence from the wardrobe door, abducts his
+hapless toys. \PAR
+Time is discrete from space until the eyelids close. He's snoring
+in the fourth dimension as a gorgeous fractal millipede, his limbs a
+frilly Muybridge ruff, asleep on Duchamp's staircase. He's a Julia Set,
+an emerald gorgon fern unwinding from the luminous coelenterate
+complexity that is his mother, drifting there beside him in a grand
+fluid continuum, the albumen contained by spacetime's egg. Jewel-coral,
+with his tail in the zygotic damp, his head cremated dust scattered
+across the Brinklow Crescent burial mound, he's a subsidiary offshoot
+coiling from the parent form, evolving its own crenellated intricacies
+but forever tied to the maternal Mandelbrot. Moored fast. Back in the
+captured heat of his terrestrial bed one leg kicks out, dog-basket
+reflex, and along the overbody's snaking flank its insectile chaotic
+trim of arms and legs is rippled by a Tiller Girl convulsion. In
+suspension, monstrous in a lotus web above eternity, amid the gem
+anemones he dreams his life. \PAR
+The awkward childhood, raised in low cloud up on the sequestered
+peak and cringing at the stark immensities about him. The most
+lightless, smog-bound days were called ``black puddings. Is that dream
+or memory, that detail? Bawling from day one at nursery, singled out as
+best friend and primary prey by the four-year-old sexual sadist who, as
+luck would have it, lives two doors away; is inescapable. With each
+attempt to integrate himself into the baffling social jigsaw he
+discovers that his ears and mouth have fists in. Suffers military hazing
+rituals, punishment beatings, the full Deep Cut treatment, from the
+Cubs. With nowhere left to go unless he wants a kicking from the
+Brownies, he removes to the interior, the private bone-walled Wendy
+House, the great indoors of books and small ventriloquistic wars to
+annex mantelpiece or carpet, solitary games. Excursions with his mother
+through the gleaming neon afterdark, a thrilling adult land of
+purposeful, inscrutable activity adorned by burning smears of traffic
+light and Leslie Hore-Belisha's beacons, down to the Granada Cinema in
+Welling, 1958, nine years old, he wants to melt into the foyer's
+gold-and-crimson glow, into a lobby-card dimension of hand-tinted slave
+girls, burnished gongs, oiled musclemen. \emph{Helen of Troy} commences
+his obsession with Greek myth, the \emph{Iliad} read by the age of ten
+and then the hungry grey sponge in his head moves on from gods and
+legends to soak up the planets and the constellations named for them.
+Science, history, astronomy and classical mythology. In his retreat from
+fresh air and its various antagonisms, inadvertently he has become class
+swot, become more eminently punchable, practically begging for it. Oi,
+you. Yes, you. Giglamps. \PAR
+Then escape, respite. He breezes his eleven-plus exams and lands
+himself at Roan School, traditional boys grammar founded in Elizabethan
+times near Greenwich Park, a boffin undergrowth to throw off predators,
+to mask the tell-tale brainiac spoor and lose himself within. Lunchtimes
+alone in the Observatory, the Maritime Museum. Once discovered, fantasy
+is cultivated as a secret vice, a paediatric opium. Steve Reeves,
+\emph{Goliath and the Vampires} after a preceding nudie featurette, that
+worn-out picture house in Lewisham, flypaper-coloured light, the
+kippered matron haunting the front booth. Retrieve the ticket from
+between her yellowed fingertips without contact, mentally reciting a
+backdated birth-year just in case, then downhill following a weak-tea
+spill of torchlight into rustling black. Science fiction, too, attracts
+him with its lurid, buzzing pylon. \emph{Mission to the Stars}, a
+Margulics anthology of yarns reprinted from \emph{Astounding}, only two
+and sixpence, picked up like food poisoning while on a holiday to
+Guernsey. He divides himself between the academic analyst and pulp
+delinquent, a deliberate schism he will never see the need to mend. \PAR
+Failing to realize that his interest in the scientific has
+collapsed to a vestigial cover story for his fascination with the
+fictional, he's carried through his schooldays caught in the remorseless
+current of the science stream, passing six `O' levels a year early and
+then sluiced into a lab job, quality control at Rank Hovis McDougall,
+white-faced to find that at sixteen he's a flour-grader. This last year,
+since 1964, he's been attending meetings of the wilfully progressive
+London SF Group at someone's first-floor flat in Kilburn. Moorcock is
+around, there's talk of making an experimental sci-fi movie from Charles
+Platt and Langdon Jones and every week he rides the night-train home
+with John Carnell, then editing \emph{New Worlds} and nurturing its
+fledgling new wave, living just downhill in Plumstead. How has he
+descended from those crackling, inspiring heights to this, a mere
+laboratory hunchback, hair a dusty preview of its later self, pay-packet
+burning fewer holes in his pockets than the everyday slop of sulphuric
+acid? He regrets his choice of occupation in a week, stays there for
+eighteen months, his jeans eventually reduced to smoking lace. Even his
+first taste of a girlfriend, their eyes meeting over the retorts through
+a corrosive steam, is not enough to hold his interest. ``Barbara or
+Louise' falls by the wayside, is supplanted by a new and more enduring
+passion, a new signal beamed from Uniceptor IV. \PAR
+Early in 1965 he's turned out his first fanzine, \emph{Vega},
+printed and distributed by the BSFA, a British amateur science-fiction
+publishing association, thrown himself headlong into the bitchy,
+blotchy, endlessly enthusiastic circle-jerk of small-press magazines, as
+yet still unaware how closely he is following the fatal H. P. Lovecraft
+template. In the Charles Platt edited \emph{Beyond} he first reads of
+the new Yank comic books, Stan Lee's crowd-pleasing formula of
+omnipotent losers. Yeah, you may be Nordic God of Thunder, but you've
+got a gammy leg. You'd trade your spider-sense and ability to run up
+walls for just ten minutes' tops and fingers. Mythic beings wearing
+science-fiction pants against a mournful and distressed Jack Kirby
+bowery, paranoid Steve Ditko skyline. How can he resist? Immersing
+himself in the garish newsprint flood that crosses the Atlantic by
+erratic spurts, as ballast, he drinks in the warm new smell of raw
+America. Swiftly acquiring a discerning eye he gravitates towards the
+somehow more distinguished product issuing from out of the stable of
+Stan Lee's main rival, former Lovecraft literary agent Julius Schwarz.
+The science fiction here is old school, classical, romantic, perfect men
+and women on a field of stars, described with clean lines, Carmine
+Infantino's Cadillac-smooth sweep or Gil Kane's Michelangelo anatomies,
+weightless in sculpted plastic space. He's hooked, and, meeting amiable
+Brummie proto-comicfan Phil Clarke at 1965's London-based World S. F.
+Convention, he decides to put together the UK's first comics fan-zine,
+\emph{Ka-Pow \#I}, dot-screened Adam West onomatopoeia, Ronco
+spirit-duplicated, purple carbon process, ghostly violet pages with a
+methylated bombsite tang. In 1967, fired by new resolve, he says goodbye
+to Rank Hovis McDougall, goodbye to Louise-or-Barbara, and seeks
+employment in the Funhouse. \PAR
+Seventeen, and hanging up his flour-grader's hat to work as office
+boy for Odhams Press. Everyone tells him it's a bad idea. He starts
+there on 1 May to find HQ closed for the public holiday when he calls to
+collect his documents. Free games for May. A jumpy hippy kid, his
+chestnut hair cautiously inching past his collar, wallflower in the
+Perfumed Garden, within three months he's the junior subeditor of
+\emph{POW!}, Odhams's endearingly club-footed stab at duplicating Stan
+Lee's meteoric rise on this side of the pond. Here he hooks up with the
+evolving backbone of a future British comic scene, Steve Parkhouse and
+Mike Higgs, Kevin O'Neill, a pre-Pre-Raphaelite Barry Windsor Smith, and
+has to suffer an alliterative nickname in the slavishly reprised
+`Smilin' Stan' style of Marvel Comics in the US: Sunny Steve Moore, with
+the planetary attribution so exactly wrong. \PAR
+Co-organizer of the first comics convention in this country he is
+founder to an institution he will one day shun in horror, but back then
+it still seems such a good idea. He's hanging out at Britain's first
+comics and science-fiction bookshop, \emph{Dark They Were and Golden
+Eyed}, a shimmering joss-stick-scented fug in Bedfordbury, then in
+Berwick Street, the offices of \emph{International Times} next door,
+with Charles Shaar Murray or Mick Farren dropping in to pick up that
+month's \emph{Silver Surfer} or swap counter-culture quips across the
+counter with `Bram' Stokes, the archetypal bead-strung freak proprietor.
+By 1968 he's corresponding with Bob Rickard who within five years will
+launch the falling-fishes-and-spontaneous-combustion journal
+\emph{Fortean Times}, he's glorying in the fizz of new ideas, new music,
+men upon the moon. In 1969 I met him for the first time, marvelling at
+his lunar lack of mental gravity, the slow and lazy arc of his creative
+leaps, the silver dust-plumes boiling up around his shoes, one small
+step for a man. \PAR
+By now the exponential creep of his collection, comic books,
+paperbacks, pulps, fan publishing detritus, has necessitated a forced
+seizure of the big back bedroom from his elder brother, Chris, who's
+banished to the boxroom, a comfort-fit coffin just across the tiny
+landing. Chris is twenty-six by now, offsetting the swung-cat-free
+claustrophobia of his sleeping quarters with employment in the real
+world downhill, in his father's footsteps, with a job at the Hercules
+Power Company that Frederick Boehm's has by that time become. He'll stay
+there for another thirteen years then move to bar work for a while
+before he finds his true vocation as groundskeeper at the Golf Club,
+tidying the greens where his dad's rocket-battery was once positioned,
+crouched absorbed over this work beneath that merciless expanse of sky,
+pushing his chipped nails down into black soil, into the root-gauze,
+grounding himself, earthing, while way back in 1969, back home in
+Chris's former room, his younger sibling makes a fair first at
+accomplishing the opposite. \PAR
+An ivy carpeting of bookshelves has already claimed two walls for
+A. E. Van Vogt, Bradbury, Charles Harness, E. C. Tubb, Abe Merritt, the
+unusual suspects, covers mad with pink sand-cities and princesses,
+vacuum cleavage, chrome-dipped interplanetary cock, forever Saturn.
+Under the already sagging single bed his funnybooks are stacked, the
+lyric ray-gun romance \emph{Adam Strange}, the E. C. science fantasies,
+Wally Wood's polythene-wrapped spacegirls with trans-solar darkness
+pooling under their amazing racks, Al William-son's bright hypodermic
+cities soaring out of duotone-fogged fungus-jungle to impale the
+nebulae. Insidious four-colour radiation seeps up through the mattress
+from the piling pages, incubating benign crystal wireless tumours in the
+dozing brain, and through the fast glass of his new room's wide rear
+window London crawls like animator's putty, the British Telecom Tower,
+Canary Wharf, the Dome, the Wheel, the Gherkin, blossoming and melting
+in the Dan Dare spacesport seethe of the horizon. He begins to see the
+city from the opera-box perspective of a Chinese print, starts looking
+down upon it all. \PAR
+In 2005 his closed lids dart and flicker, shift REM, the thin skin
+blinds drawn hurriedly upon a Jungian suburban orgy going on below.
+Restless, he lifts from the untroubled, blissful deep-sleep sine-wave
+dip of the late 1960s into the uncertain toss and turn to come. In early
+1969 Odhams is folded into Fleetway Publishing, IPC Magazines being the
+resultant amalgam, and he's one of the few staffers to survive the move.
+A close call, and an impetus towards diversifying, adding new strings to
+a bow he hopes to change by stealth into a harp. Commences writing
+scripts for comic weeklies, bonsai screenplays. \emph{Wonder Car}, with
+art supplied by boyhood god Ron Turner, chief delineator of mid-1950s
+cosmic cop Rick Random, prescient name marking the future as a threshold
+of complexity. The 1970s are waxing and in his spare time he's working
+on superior fan publication \emph{Orpheus} with Barry Smith, Steve
+Parkhouse, lan Gibson, an experimental flux of words and images,
+attempts to wring some kind of poetic from decaying orbits, damaged
+drives. 1972, in January, on a rare frost-bitten visit to Bob Rickard's
+place in Birmingham, he hits upon the winning mix of cannabis and
+late-night Hong Kong action flicks during a showing of \emph{The Sword},
+directed by and starring the adaptable Wang Yu. Between mandarin talons
+yellow magic grips his heart and he goes overboard, goes oriental mental
+and subscribes to \emph{China Reconstructs}, pesters Uncle Don the book
+importer for impressive hardback tomes on Chinese history to crowd out
+the Ace Doubles, launches into a lifelong affair with the I Ching,
+eventual fellowship of the Royal Asiatic Society. Everything changes at
+the midnight matinée, at the box office with its moving lines. Fate hits
+the freeze-frame and the coins hang in the winter air. \PAR
+He wants to make the jump from editorial offices and prospects
+that he fears may be unsound on to the listing death-trap scaffolding of
+a freelance existence. Editor of the impeccably hip fanzines
+\emph{Stardock} and \emph{Gothique} (back-cover collage portrait of
+Frank Zappa made from cops and corner stores and motorcades; an article
+on the right-wing agenda of the superman entitled \emph{Propaganda; or,
+Why the Blue Beetle Voted for George Wallace}; Ramsey Campbell's
+penetrating piece on the grotesque in music, Saint-Saëns to the Velvet
+Under-ground), Stan Nicholls has established his Notting Hill Buddha
+frame at Bookends, a science fiction/comic/head shop out at Chepstow
+Place. He's offering a partnership, the opportunity to type up comic
+scripts during slack periods down in the bookstore's basement, too good
+to pass up, and those freelance assignments keep on coming, bolstering
+his false sense of security. Cur\emph{se of the Faceless Man}, text
+stories, jungle fables for the Swedish market, Tarzan of Ikea, twenty
+episodes of sword-and-sorcery romp \emph{Orek the Outlander}. Things
+look every bit as bright for him as they had for his parents at their
+new house on the hill in 1948, but this time i's not doodlebugs or
+German bombers. It's the Met, the Obscene Publications Squad. No warning
+sirens and no backyard shelter for the R. Crumb cum-shots or the S. Clay
+Wilson severed pirate-dicks to huddle in until everything's over.
+There's no ack-ack shooting back: during all this his father dies, a
+golf-course stroke, just short of turning sixty-five. The pulmonary guns
+fire everything they've got into a popping strobe-lit heaven, emptying
+the chambers. \PAR
+Busted, Bookends is shut down, 1973. He's writing comics to pay
+off five grand in business debts, but it's a largely loveless chore
+these days, the glitter long since rubbed from all the stern-eyed
+starmen, alter-ego icons for more optimistic times. Horror and
+weirdness, that's his tipple now. Bob Rickard's launched \emph{Fortean
+Times}, a small-print black-and-white blast of excluded news, damned
+data and Hunt Emerson cartoons from the polymath clutter of his
+Birmingham bedroom, its shoebox morgue files full of thunder-stones and
+Owlmen, Morgawi, simulacra, Indrid Cold. Our man elects to pitch in with
+a study of the mystery beasts at large on Shooters Hill, black panthers,
+black dogs, Black Shuck, sighted mostly in proximity to the location's
+many water features, streams and mineral springs and the forgotten Ket
+or Quaggy rivers. He's attempting to relate all this to Taoist
+principles, the dark and watery Yin, the broken line, while almost
+unintentionally he begins to map the hill's imaginary contours and
+astral topographies for the first time, as if he's only just this moment
+realized where he is. \PAR
+Meanwhile the days grind forward measured in worn-out typewriter
+ribbons. In 1974 he lands a gig at Thorpe \& Porter's \emph{House of
+Hammer}, scripts \emph{The Legend of the Seven Golden Vampires},
+captions oozing his still-burgeoning obsession with Cathay. 1975, he's
+writing endless children's annuals, documenting the Sex Secrets of
+Bangkok for a soft-core relaunch of \emph{Tit Bits}, ducking furtively
+behind the mystifying pseudonym of Pedro Henry. When the work is thin,
+down to the Croxley onion-skin, hell work a day or two for Bram Stokes
+at the relocated \emph{Dark They Were and Golden Eyed} along the faintly
+miserable defile of St Anne's Court. Conveniently, this is where the
+Charlie Fort crowd get together once a week to sort their clippings out
+by category, BVM or SHC or MIB. He has his hand read by a friend of lon
+Will, the hero in Ken Campbell's \emph{Fortean Caper}, and is told that
+when he's twenty-seven he will meet the woman he is meant for.
+Mantically misled, on reaching the appointed age in June 1976 he
+misidentifies a wan-but-personable co-worker at the shop as his intended
+but she's not, she's not. She's got a boyfriend, got a monkey, and the
+railtrack creases in his palm were wrong, led only to this disused
+branch line, this neglected siding. \PAR
+In October, quietly, imperceptibly, the filmy and prismatic bubble
+of his life explodes, burst by a fingertip, from the outside. He's
+bought an exorcism-sword on the first day of the new month, 108 Chinese
+coins, \emph{cash} coins, the perfect geomantic number, square holes at
+their centres, bound together by red thread into the flat shape of a
+ritual blade, for banishing. A King of Swords, the Hebrew letter that's
+attributed to his tarot trump being Zain, a sword, his passion for
+sinology awakened by Wang Yu's \emph{The Sword}, and now this. Clearly
+asking for it, he decides to use his new toy in a first-time improvised
+attempt at magic, winging it, asking for guidance and, if it's not too
+much trouble, a confirming dream. At four o'clock next morning he wakes
+up to darkness and a male voice whispering a single word into his ear. \PAR
+`Endymion.' \PAR
+At first it's gibberish, another false start like all that
+matchmaking palmistry, then he remembers where he's come across the word
+before, a book he'd not especially enjoyed, \emph{Erotic World of
+Faerie}. It's a poem by John Keats based on a Greek myth, its last fifty
+lines written at Boxhill, one of the heights visible from Shooters Hill
+towards the south. It seems Endymion's a shepherd boy who falls in love
+with the divine Selene, goddess of the moon and Moon itself.
+Reciprocating his affections, she explains that since she is the queen
+of night and dreams, there are no means by which he might be with her
+always other than the death-in-life of an eternal sleep. An offer that
+he gratefully accepts, and that's it, more or less. Lucian has Endymion
+on the moon in his \emph{True History}, as pirated by Karl Friedrich
+Hieronymous, Baron Von Munchausen, which leads to Robin Williams mugging
+his way through the role in Terry Gilliam's film adaptation. Frankly,
+none of this seems very promising. \PAR
+Then the coincidences start, the library angels hurling some
+required book from the shelves down to the tiled floor at his feet. His
+life, his human narrative, begins to trespass on the draughty
+borderlines of the Fantastic as defined by Tzvetan Todorov, a literature
+of hesitation that refuses to decide between a rational or supernatural
+resolution. Henry James's \emph{Turn of the Screw}: are spectral
+entities at work here or has the protagonist gone bonkers? Dreams and
+signs provoke him to investigate the source material, the unembellished
+myth, and he accumulates a massive library of classics that will match
+the still-expanding I Ching and science-fantasy collections, will
+necessitate surrendering another bedroom wall to academic kudzu. He
+tracks down the legend's pedigree to Mount Latmos in Turkey, the
+discovery of caves believed to be the hermit shelters of dream-oracles,
+\emph{Luftmensch}, their lives spent in the presence of their lunar
+goddess, on the nod, perhaps dosed up on extracts of her sacred,
+visionary flower. Was this Endymion, his origin, or maybe an Endymion
+cult? Shooters Hill, Boxhill, Latmos, something about hills here, hills
+and caves. There at his research in his anchorite retreat upon the
+summit he constructs another joint and he considers, gradually
+identifies, as out beyond his window the decade winds down towards its
+discontented winter, its plutonium blond denouement. This is how it is
+at the approach of the uncanny, each progression in our comprehension of
+the concept like a football treading softly closer. This is how we act,
+no awe, no terror, just bland reassurance in our default certainty that
+this can't possibly be happening. \PAR
+Meanwhile, back on earth, his native planet, things are going
+well. Regular work for \emph{2000AD} or Marvel Comics' UK satellite,
+Selene, and a smattering of Olympeans cavorting with Tom Baker in the
+slick Dave Gibbons crafted pages that he scripts for Marvel's \emph{Dr
+Who}. Entire Selenic empires of argent imperatrices fall into decline in
+the back-story of \emph{Laser Eraser}, penned for stylish independent
+\emph{Warrior} in 1981. At this last publication's New Cross comic
+shop-cum-offices in 1982 he's ruinously smitten once again, picks up
+another damp and sputtering torch, another big-eyed china doll behind
+the counter of a mylar-lined emporium. While she's on holiday that
+summer he completes a first draft of the book-length piece of I Ching
+scholarship he's working on, \emph{Trigrams of Han}, a drastic
+reinterpretation of the oracle which overturns, authoritatively, long
+decades of accreted dogma on the subject and proposes a more complex and
+sophisticated model, a mnemonic mapping of the ancient Chinese worldview
+in its convolute entirety, imagining that this is how one goes about
+impressing pretty girls. In 1984 with the demise of \emph{Warrior} he
+moves with her to a shared house in Westcliff, Essex, the sole change of
+address he will make during his lifetime. Sticks it for three painful
+months and then comes home to the familiar bed, familiar view, familiar
+chair. His mother hasn't touched a thing. In 1985, he and his brother
+find one day they cannot wake her and the morning that she didn't make,
+its pencil-crayon light diffused on the unmoving eiderdown, death like
+her life demure, transacted without inconveniencing anyone. Mary, whom
+he took after. Every other night she still calls from the kitchen in his
+dreams. \PAR
+The 1980s burn down, guttering, with so much gone and melted.
+Westcliff woman married with a kid, they still think of each other as
+good friends but, well, you know. His mum's gone too, these stabilizing
+female gravities, these planets breaking from his system, spinning off
+into the stars. The only woman who retains her influence upon him lives
+in Downing Street, is running down herself with super-villain tic in one
+eye, one hand now a pincer, will be gone within a year. The spring gusts
+on the hill's brow have a sense of resolution, a brave melancholia, an
+urge to something as yet without form. For reasons that he only poorly
+understands he has the sudden yen to dust off undeveloped drawing skills
+left on a highshelf since those early fanzine days, just for the
+exercise. Best start with something small. Small and erotic, to ensure
+that the enthusiasm needed to complete the project is maintained,
+Bog-Venus logic. Knows himself too well. \PAR
+He starts to paint the body of the goddess, of the female that he
+first encountered in 1976, the foretold age of twenty-seven, couchant on
+a ground of turquoise night, naked except for her stephane, her crown,
+the spill of auburn splashing down upon her breasts, her shoulders. She
+sits unselfconsciously, her legs apart, \emph{Déjeuner sur l'herbe}. He
+tries to make her face that of his recently lost love but here the
+licked-sharp brush refuses, cleaving to its own agendas. Diamond
+highlights animate the eyes, the gaze engaged, amused and up for
+trouble. For a while her smile eludes him, long nights' precious labour
+on her lips, the dawning knowledge that this graven image, this
+commandment-breaker, is the seal of an insoluble commitment. After
+something like a week she's finished, the addictive toil curtailed,
+contained within the narrow wooden limits of a prop-up frame to set
+beside the armchair he makes notes in, on the desk he types at, by his
+bed. \emph{You saw me standing alone, without a dream in my heart,
+without a love of my own}. The shape made by her limp white limbs
+becomes a tender rune, an ampersand belonging to an alphabet of greater
+passion, stronger meaning, drinking in the energy of his attention, of
+his writing, of his work, his sex, his sleep, until the framed glass
+hums with it, lenses the trapped vibrations back into the room's
+air-pocket ambience, a high-pitched alpha drone on its periphery.
+Emotionally compressed, the bubble habitat heats up, exhibits
+sonoluminescence, starts to shine. \PAR
+Over the next few years the sense of contact ebbs and flows, never
+recedes entirely while he's busy with the US colour version of
+\emph{Laser Eraser}, earning, yearning, finishing \emph{Trigrams of Han}
+and finding it a publisher on money that his mum has left, or grafting
+as a contract writer/editor for the going concern that \emph{Fortean
+Times} increasingly has started to become. \emph{Viz} magnate John Brown
+is the magazine's new publisher, its circulation rising as its genuinely
+interesting hardcore content dips, its articles on lexical linkages or
+its psychometric scrying of American arcana shunted out in favour of
+\emph{X-Files}-related cover features, rubber Roswell autopsies. A
+bigfoot stumble, coughing in the dust of a bandwagon as it rumbles off
+to disappear for ever into Area st. Meanwhile the postcard-sized framed
+portrait has become the portal where he stands and stares, replacing the
+grand panorama of the outer world beyond his bedroom window with its
+moonless view. She's there behind the glass, a different universe just
+millimetres from his fingertips, with everything she represents. Divine
+light. The romance of sorcery. \PAR
+Aleister Crowley calls it a disease of language. Spot it from a
+mile off, the enflamed vocabulary, the light-headed syntax. Luckily,
+most of the population have been immunized by C. S. Lewis, Tolkien, J.
+K. Rowling, Buffy, by exposure to the virus in the form of a dead
+culture, something that will force no-nonsense antibodies to kick in
+without the danger of full-blown enchantment. Texts that act as
+disinfectant, language pasteurized for ordinary consumption, all the
+ontological blue mould scraped off, the strange loops of self-reference,
+the pathogens, words so far past their best-before date that they're
+crawling, they're alive. Virulent rhetoric is thus pro-scribed, no dirty
+intercourse allowed except for those professions where hot contact
+cannot be avoided, so effectively magic becomes less a disease of
+language, more an occupational complaint of writers. Stirring cloudy
+coffee at the tearooms tucked away in Castle Woods where Golden Dawn old
+boy Algernon Blackwood's family home once stood, he knows it's already
+too late for him, it's already in his bloodstream. He's high risk,
+susceptible, OTO positive, the I Ching work and covert goddess-worship
+markers of occult predisposition. Warily investigating, he affiliates
+himself in 1992 to a magical order, the Illuminates of Thanateros; their
+temple a New Cross recording studio. Chaos magic, though the name seems
+harsh. Bit of a mess at worst, more teen goth's bedroom than inchoate
+pre-creational abyss. He chants along with all the others for a while,
+recalls his lip-synched prayers at school assembly, then has the
+temerity to inquire of an order head if there's a reason why the
+ceremonial robes have to be black, is told in lieu of answer that it
+shows colossal ignorance to even ask. God, what if everybody questioned
+the most basic principles of ritual like that? It'd be chaos. \PAR
+Clearly not for him, warmed over Austin Osman Spare without
+requirement to tread too close to the edge of the apocalyptic Brixton
+artist/shaman's risky line. He holds out for a month or two then jacks
+it in, though not without a certain fidgety dissatisfaction, an
+impatience with the numinous. You get all dressed up and she doesn't
+show. You turn up at the juju showroom to take magic for a test drive
+and can't get it off the lot, while all the senior salesmen stand around
+and suck their teeth. Maybe it hasn't got an engine, maybe that whole
+internal combustion thing was only crazy talk, and yet the promise in
+her eyes, behind the glass, beside the bed. There must be more to
+wizardry than this, this Gandalf-with-his-knob-pierced stuff. Where's
+the romantic rush, the Blake ache? Where's the Art? \PAR
+At this point the narrator, up to now concealed behind the safety
+curtain, trying to keep out of it, must advertise his presence with a
+cough without allowing this to turn to a John Silence story, to a yarn
+where the intrepid house-on-haunted-hill investigator is reluctantly,
+predictably drawn in and made a witness to the awful outcome, to the
+vanishing, the giant hand from beyond. I've been along with him for most
+of the above, entranced and fascinated, following his lead, convinced
+that the smart money was on this unlikely scarecrow. \emph{All about
+Eve}, him as Bette Davis. Follow him into the drug-fug of the 1960s
+underground and through the \emph{Fortean} ruminations of the 1970s;
+into the comic-writing thing, his red corrections vivid and instructive
+lacerations on those first trial scripts, twenty-five years back. In the
+early 1990s with a three-lane pile-up of a marriage still receding in
+the rear-view mirror, following him into magic seems a good idea, a way
+to steer the vehicle of writing off the speedway of career into
+fluorescent wasteland. His forays in organized contemporary magical
+society, all his New Cross necromantic nights, are watched with
+interest. Let's see if this sends him mad or kills him before making any
+personal investment. Sharing his frustration and his disappointment when
+it fizzles out without result, late-night conversations as to what a
+genuinely modern magic worldview might entail, more literary and
+progressive, texts to represent the body of the god that may in some way
+then be treated or manipulated, Set/Osiris, Burroughs/Gysin, two cut-up
+techniques somehow reduced to one, the psilocybin dialogues blithely
+wandering through riff, hypothesis and rant towards a hidden precipice. \PAR
+Visiting him. 7 January 1994, the cab ride up from Lewisham
+through Blackheath with its ghosts. The Bronze Age rabble who weren't on
+the list when they were handing out the hilltop burial mounds. Montague
+Druitt, cricketer and fit-up Ripper suspect with his astral doppelgänger
+David Lindsay, author of \emph{A Voyage to Arcturus}, translucent
+fantasy that opens at a London seance then progresses into fiery
+allegorical terrain that characters must sprout new sensory organs even
+to perceive. The taxi shifts down, struggling up the hill towards its
+brink, and there is the familiar illusion that this raised,
+uncomfortably close horizon may have only sheer drop on the other side.
+Set down beside the road with rubies shoaling in the rush-hour dark,
+across from the Memorial Hospital, then those few paces down an almost
+hidden footpath and into the sheltering close, its paper-lantern light
+warm through the ring of pulled-to teatime curtains. \PAR
+Welcomed in, cursory head-poke round the door into the
+soccer-highlight grumble of the living room to say hello to Chris, past
+fifty now and looking forward to early retirement from groundskeeping
+thanks to a pool-syndicate win some years earlier, a notable example of
+the elder sibling's striking-if-ambiguous relationship with probability
+and football, since he'll later lose one eye to flesh-eating infection
+in a minor wound sustained during his Sunday-morning kick-about. A game
+of two halves, clearly. After packing in the job he'll fill his time,
+he'll fill his half-share of the house with cacti, succulents, that most
+extraterrestrial of plants, speaking of an emotional reserve, survival
+in a hostile, dry environment, the water and the sweetness held inside.
+He and his brother with their amiably parallel existences will see the
+hilltop house become a border skirmish-zone, part of some age-old
+territorial war between the science-fiction paperbacks and the
+asclepiads. Exchanging genuine pleasantries with Chris, the next stop is
+his brother's room, the humming gem-field of its northern vista and
+signature two-note tinkle from the old and delicate tin wind chimes just
+inside the door. \PAR
+Assume the customary position, semi-comfortable, slumped on the
+creaking bed while he sits beaming like an idiot or sensei in his
+armchair opposite. The conversation purrs to life from a cold start,
+part sputtered through a mouthful of the funny fungi, mildewed
+spider-roe, routine and purely recreational, a semi-regular and casual
+feature of the previous fifteen years. The talk drifts easily to magic
+in the slow three-quarter-hour approach to lift-off, something
+complicated, foggy, about gods as texts, linguistic entities, so if you
+intercut two texts together, say a god and goddess, then what kind of
+fusion might result, but wait a minute, wait a minute, that's not what
+he's saying, pay attention, it's this other stuff with one text seen as
+corpus of the goddess and the other one a purely purposive and causal
+piece of writing, a request, a spell, then cut them up and intersperse
+them so that god and goddess fuse together as hermaphrodite, as alloy,
+tempered gold and silver, chemic wedding, this is crucial, this is so
+important although actually that isn't quite what he's attempting to
+convey, we're at cross-purposes, it's more the notion of a statement of
+intent, a page of writing, then you take another page, an invocation to
+the god or goddess and you cut them up and shuffle them together so that
+purpose and divinity are one, so, let's see, that would mean that in the
+union of two passages composed to represent the male and female deities
+there would be a new sexual alchemy, is that right, and the struggle to
+express this, this is all so difficult and Jesus, man, we've just, we've
+just been through this, through this exact, this exact same conversation
+three three three times three times three times in a row. \PAR
+The ceiling's gone, the room now opening upon a space above that
+isn't night, and something stoops, leans in from outside, gathering
+identity with its approach. It pushes its unfathomable face down into
+our aquarium, displacing world, spilling reality on heaven's front-room
+floor. We're flopping breathless on the holy carpeting. This isn't meant
+to happen. We aren't doing anything, we're only talking and we stumble
+on an idea that turns out to be connected to another, then another, and
+the discourse makes its labouring progress upward from one concept to
+the next, completely unaware of climbing something's tail until it
+flicks, an active spirochete attending this disease of language.
+Dream-spine, knobbly with conceptual vertebrae but smooth as viscous
+liquid in its movement, living chain of muscular and dangerous notion,
+looping and recursive thought-meat winding, coiling back and forth upon
+itself, a current dragging helpless consciousness along its length in
+rippling peristalsis. Churning in this burning gold confusion, the
+awareness of having been swallowed by a snake of some kind is belated,
+useless, and we're riding the King's Highway, slamming primary-colour
+neon bumpers in the sephirothic pinball, shrieking like a roller coaster
+in the ricochet from zone to zone. Zone where both parties realize
+things could happen here, things that could shatter friendship
+irretrievably, and dare not speak the thought out loud. Zone where both
+parties realize simultaneously that they have been alone in this
+hallucination, none of this has really happened, that they have gone mad
+and all this time their colleague has been minding them, distressed,
+concerned, may have already called the ambulance, look, look at all that
+worry in his eyes. Zone like a room of dazzling white full of dead magi
+muttering outside of time and taller figures at the back, much taller,
+with the heads of animals. \PAR
+The bookshelves there behind him are a hexagram with six unbroken
+lines, Ch'ien, the Creative, are a doorway where the brilliance bleeds
+through from a next room that's not there, a warren of such rooms
+stretching away above, below, on every side, a Hyper-London, an eternal
+fourfold town of lights. This is it, this is real, this lamp-glow that's
+inside the world like torchlight through a choirboy's cheeks, the
+mystical experience as Gilbert Chesterton's absurd good news, and it
+goes on for hours, goes on for ever. Later, as if there could be a
+later, separate strivings after sleep in a still-sizzling aftermath,
+each with identical eidetic imagery cascading, something between cooling
+printed circuitry and hieroglyphic stelae scrolling down behind the
+eyelids. And then in the morning you get up, you get on with your life,
+but it's a different one, at least at first, and all its streets are
+made a grey and glassy tracing-paper overlay, muting the colours of the
+rich design obscured beneath. Here sanity is on thin ice, here you could
+stick your foot right through the diagram. The safety buffer that's
+afforded by conjecture has evaporated. Sexing seraphs, noticing for the
+first time their startled, disapproving frowns at finding you with one
+hand up their frocks when you thought you were groping for a metaphor.
+Now everything is wonderful and hazardous, and nothing's hypothetical. \PAR
+Increasingly, this includes his relationship with the tarot-scale
+image of the goddess resting on the shelf beside his bed. Where
+previously the conceit of a fond, romantic folly has provided insulation
+from the stark insanity of what he's been half entertaining, now the
+gloves are off. The poetry has jumped the fence and threatens rampage in
+his proudly maintained china shop of rationality. Todorov's definition
+of Fantastic literature as hesitation, as deferment of one's choice
+between a psychological or an unearthly explanation, has become his
+tightrope, and successful subsequent experiments with sorcery don't make
+things any better. She gets more real every night, is in his dreams,
+will sometimes break beyond the confines of the sexualized imaginary
+friend, of her allotted moon-nymph role, and show another face. He
+dreams he's in his room, almost aware that he is dreaming, almost lucid,
+kneeling by his bed to fumble underneath it for some misplaced
+\emph{Planet Stories} pulp, and suddenly she's standing there behind him
+and he doesn't dare look round. Her voice, from over his left shoulder
+as he kneels, is not that of the young girl in his painting. This is
+someone older talking, someone graver with a ring of sad authority.
+'There are bad times ahead, and yet because you love me, so shall I
+protect you. When you die, you will become a lily? \PAR
+He looks rough on visits to Northampton during 1995, passes out
+once or twice in public, and the magical experiments are steadily
+accumulating their own spooky aura. Lose each other for a moment in the
+busy main street's weekend shove, look round to find the other party
+gone, both struck by the same thought, what if we never saw the other
+man again? Magic is all about expanding the parameters of what is
+possible; and thin air suddenly seems like a possibility. That year he
+starts as editor of erudite and handsome \emph{Fortean Studies}, a new
+journal launched by \emph{Fortean Times} to make a home for all the
+fascinating academic stuff displaced by glowering spreads of Gillian
+Anderson, David Duchovny. Gleefully, he puts together dense anthologies
+of mysteries and marvels, wonders crowded to the margins by an influx of
+grey aliens and anal probes. The phantom Russian troops, snow on their
+boots', reported marching from the north of England during the Second
+World War to make a sneak attack on Germany. A self-penned contribution
+on the possible historic authenticity or otherwise of strange Chinese
+automata, the wooden oxen said to have been engineered by Chinese
+Merlin-figure Chuko Liang in AD 230 or thereabouts. Another piece of his
+on enigmatic and reputedly lunar secretions, some form of celestial
+cuckoo-spit known to antiquity as `moon-foam'. This is much more like
+it. This is something he can get his teeth into, research and facts and
+dates and accurate investigation, publishing perfectionism. This is
+heavy, a huge intellectual anchor to prevent him drifting upwards, off
+into the mist, into the moonlight. Just in case, he adds some extra
+ballast: an exhaustive indexing by topic of \emph{Fortean Times} for
+1993 which will eventually lead to indexing the entire quarter-century
+of the magazine's duration, then \emph{The Oracle}, a scholarly
+small-press journal of I Ching studies that he edits, then a massive
+bibliography of I Ching reference, from Crowley to John Cage, which he
+embarks on in collaboration, something for those idle moments. \PAR
+Worried by his spazz-attacks and blackouts he checks with a doctor
+and in 1996 is told he has high blood pressure, though not that he's a
+high-risk cardiac catastrophe waiting to happen, which presumably they
+figure wouldn't help. He cuts down on the smoking and goes for a
+recommended walk each day around the hilltop, lanes and avenues he's not
+set foot in since his childhood. It's a revelation, the variety of
+architectural styles, the sudden incongruities in rows otherwise uniform
+that mark a buzz-bomb hit. Magnificently monstrous water tower, a
+red-brick fortress hulking there just past the Bul, and blue cut-paper
+torrents of hydrangea overflowing the low garden walls to spill into the
+streets. The postbox with a primitive horned stick-man sprayed in black
+upon its violent red. He taps into his family history, the blood-roots
+sunk into the blood-hill, reconnects with his environment and becomes
+reacquainted with its quanta, with its charge and spin, its strangeness
+and its charm. \PAR
+Partway through 1998, while he's engaged, contentedly, in juggling
+his various and complex intellectual responsibilities, \emph{The
+Oracle}, \emph{Fortean Studies}, I Ching bibliography and the by now
+deranging \emph{Fortean Times} index, his neglected love life coughs
+once, sits up naked on the slab and says Where am I?' just when everyone
+has given up on it. An e-affair, a dotcom romcom, a subscriber to
+\emph{The Oracle} that he's been corresponding with who's fallen for
+him, wants to meet him. For God's sake, he's nearly fifty and he really
+doesn't need this; needs this desperately. She's an I Ching diviner
+teaching Taoist meditation and the yogic discipline Qi Gong. She lives
+in South America and if he'd care to he can pop out for a visit, stay
+there at her dad's coffee plantation for a while, her place in Rio or
+the beach house in Bahia. He's convinced that he's been given pages from
+somebody else's script, casting-department oversight, but still decides
+to play along, see how far he can get with normal human life before the
+error comes to light, before being unmasked as an impostor. \PAR
+Late that summer he flies out to Rio and it's like a dream. She's
+beautiful, intelligent, and Qi Gong turns out to include a form of
+tantric sexual yoga in its repertoire, real tantra as opposed to Western
+magic's current usage of that term as esoteric code for `had a wank' in
+case mum finds the Book of Shadows. While he's out there he smokes weed,
+plays poker, cultivates a taste for Scotch, unleashes an entire new
+personality, does everything but buy a derringer to hide, spring-loaded,
+up his sleeve. Sprawling beneath the stars on the plantation he
+discovers that the moon looks different from the Southern hemisphere,
+the crescent resting on its back, horns raised to gore the dark. He
+comes home with a proper haircut and a roguish glint, enjoys it all so
+much that he goes out again in 1999, invites her over for her first away
+match in 2000. England, understandably, is something of a shock to the
+Brazilian system. Lite sa beach and then you hit South London, where the
+heatwaves bring her out in goosebumps. Meets and likes his one-eyed
+brother, Chris, whom thanks to errors in translation she'd assumed to be
+an evil Cyclops keeping Steve a prisoner in his lonely garret room,
+forced to hang underneath the belly of a ram if he should want to nip
+out to the shops, but even her relief does not endear the landscape to
+her. The astounding northern prospect of the city from his bedroom
+window is just city, lacking coast or mountains can't be called a view.
+The overcast skies, sunsets on a black-and-white TV when she's been used
+to colour. When she goes back home they part as lovers but at Heathrow
+there's a shift in indoor light, perhaps a misfire in the kiss, a
+premonition. Her black hair and coffee skin are melted, stirred into the
+milky pallor swirling there in the departure lounge. \PAR
+Returning to his work he feels a certain apprehension in the air,
+a V-bomb hush that makes him restless, reckless. All this editorial
+responsibility will drive him bugfuck if he doesn't make a break, and so
+he quits \emph{Fortean Studies} after Issue 6, concludes the indexing
+and bibliography, then extricates himself with honour from commitments
+to his \emph{Oracle} subscribers and throws in the towel. He's got a
+couple of new projects on the go that will drain off the excess energy,
+a thorough excavation of the mythological Selene that might rescue the
+original text-body of the goddess from beneath a palimpsest of resprays,
+Robert Graves and Women's Mysteries, restore her to her former glory.
+This is something that's been brewing since 1976 but now he's getting
+down to business, loosely mapping out the necessary chapters, and then
+there's this other thing, this idea out of nowhere, for a novel.
+Something based upon the elements that have defined his life thus far,
+the hilltop solitude, the moon, the quarter-century back-catalogue of
+dreams. \PAR
+He tinkers with the notion in the evenings, wants to craft an
+unadulterated night-work. Now that hes not smoking any more he finds he
+likes a glass of Scotch or three to help his mind uncoil into the
+still-coagulating narrative. Currently having something of a crush on
+the Elizabethans he's not listening to anything except gavottes,
+pavanes, speed garage harpsichord extravaganzas that put him in mind of
+his most cherished 1960s vinyl, Hendrix or the Yardbirds, a Jeff Beck
+deluge of notes. The sixteenth-century aural filigree infects his prose,
+informs his thinking with a tendency to the elaborate, an urge to
+decorate. By day he's come full circle, writing comic scripts for the
+increasingly nostalgic-sounding \emph{2000AD}, the weekly publication
+traipsing nervously into its namesake year, the single dazed survivor of
+a home-grown comics industry that's suffered an extinction event, a
+migration of the native talent to America after the British comics boom
+exemplified by \emph{Warrior}. The thriving field he'd given up
+flour-grading for all of those years ago is nearly dead, almost entirely
+vanished, the attendant fanzine scene turned into purple dust, all blown
+away, and somehow, when you think about it, this is probably his fault.
+In normal working hours he writes the space-Yakuza yarn \emph{Red Fang}
+and the dark Ashton Smith-like \emph{Tales of Telguth} as atonement, but
+when darkness falls he pours himself a shot, cranks up \emph{Now That's
+What I Call Harpsichords} full volume and applies himself to his new
+secret labour, the new edifice he's building out of dark and drink and
+dreams, out of Elizabethan reggae and the hilltop's gutter-dust. He's
+even found a word, a name that's rattling around inside his head, a
+working title: `Somnium'. Perhaps a city, lost. Perhaps an element not
+yet unearthed, not yet discovered. \PAR
+Late 2000, early 2001, he gets the email from Brazil that he's
+been half expecting, breaking off the romance. They're in different
+hemispheres, they're under different moons. They need less space. He's
+upset, but the cracked chime in the gut is somehow muffled, or at least
+held in abeyance. What it is, he's picking up a lot of interference on
+the Venus waveband, garbled bursts of an emotive Morse he can't
+unscramble. Intermittently across the years he's been in casual, amiable
+contact with the yummy mummy that his botched Westlif elopement has
+become, is matey with her husband and her son, visits her maybe once a
+year, all that old heartache done with and behind him, pretty much. But
+now, with perfect or perfectly dreadful timing, her married life
+detonates and she's pinned underneath the rubble of divorce, no feelings
+in her numb extremities, calling out weakly, asking if there's anybody
+there. She badly needs some reassurance, as you do, to feel desirable,
+attractive and, OK, so if one night she hits the wine too hard and sends
+out some ambiguous signals then that's understandable. That's
+understandable to anyone who's been there, anyone but him. He gets the
+diagnosis wrong, completes the crossword clue that's in her late-night
+phone calls far too hastily, though he has no more than the first two
+letters, guesses loving' when in fact the answer's lonely. \PAR
+ He's disoriented, lost, and all this sentimental sediment is
+filtered through the whisky into \emph{Somnium}, the plot of which has
+by now crystallized into a mirror, is about a lovelorn writer who
+appears to be losing his mind on top of Shooters Hill. `Appears to be,'
+so you can see that he's still clinging on to Tzvetan Todorov's
+Fantastic get-out clause, dangling from one end of the lifeline that was
+formerly his tightrope. This could yet resolve itself into a
+supernatural narrative rather than one of psychological collapse.
+\emph{Turn of the Screw}. There's still that hesitation to hang on to,
+although frankly the sheer misery distilled into the prose makes it
+progressively more slippery, harder for anybody to maintain that vital
+grip, especially him. His main protagonist's a nineteenth-century author
+who's retreated from a doomed infatuation to seclusion in his rooms at
+the Bull Inn there on the hilltop. As a solace, a distraction from
+self-pity, he starts work upon a novel that's entitled \emph{Somnium}, a
+wild romantic fantasy that's set on Shooters Hill during Elizabethan
+times. Already in this outline, in this book-within-a-book, the surface
+eddies that could deepen to a whirlpool are apparent but he presses on
+regardless. An Elizabethan knight, the hero of this second
+\emph{Somnium}, rides to the hill upon a moonlit night and finds a hinge
+between two worlds, a different hilltop with a luminous marmoreal
+palace, giant architecture a stylistic hybrid between Mucha and
+Vitruvius, where dwells the incarnated lunar goddess Diana Regina. The
+affair develops as a convex version of Beardsley's erotic fantasy
+\emph{Under the Hill}, and meanwhile in his room at the Bull Inn the
+bereft nineteenth-century author of all this is having dreams, with
+statuary and pillars from his novel found in cellars underneath the
+hostelry, and begins to lose sight of a line between his writing and
+reality. \PAR
+Despite the dry-ice gothic cold front gathering around his life
+and fiction, it becomes quite clear that, speaking psychologically, the
+real twenty-first-century author of \emph{Somnium} is setting up a
+flawless piece of slapstick for himself, becoming Michael Crawford at
+some gruesome halfway point between Frank Spencer and the Phantom of the
+Opera. He's got the roller skates, the plank, the tub of paste, the
+shopping cart. He's got the steep hill. All he needs is one good
+circumstantial shove, something the audience could see coming from a
+mile away, and a hilarious mix-up will most certainly ensue with him
+careening off into the laugh-track. \PAR
+It's around this point that he receives a message from his
+Westcliff wisp of smoke, never exactly an old flame, inviting him as a
+much-valued chum to share her happiness at finding a new boyfriend, and
+it all comes down on him at once. The loss of his Brazilian woman, a
+deferred ache, and now this, the long shot everything was riding on,
+gone down at the first fence. He's drinking, riding on the redeye, and
+in \emph{Somnium} his anguished nineteenth-century narrator's drinking
+too. He wants to die. He's dreaming blocks of excavated architecture
+from his novel just like his increasingly deranged protagonist,
+exquisite marble shards of an Elizabethan buried moon-town poking up
+from cellar floors, out of the hilltop dirt. His brother, Chris, is by
+now chairman of a local cactus-fanciers cabal, is seed-bank secretary to
+the International Asclepiad Society, is editor and publisher of the
+society's gazette, the same Gemini energy and King of Swords
+perfectionism as his younger sibling. Chris announces that he's
+travelling to South Africa during September, an asclepiad convention,
+perfect opportunity to find exotic specimens, weird flowers that stink
+like dogshit to attract the pollinating blowflies of a country without
+butterflies or bees. Chris plans to be away for a whole month, the first
+time his kid brother will have been alone there in the house that long,
+and right when ideologically he's at his most precarious extreme, could
+maybe use someone around the house to talk to who's not in his
+manuscript, not in his head. He goes the whole hog, plans to use the
+enforced solitude as background for a magical retreat, a scaled-down
+Abramelin ritual, withdrawal from the world into a strange hermetic
+space that in all likelihood turns out to be an observation ward. \PAR
+His journal for September is a soberly recounted twilight
+travelogue, a disaffected radio-telescope view of our planet from some
+distant satellite. He rigorously records his nightly dreams and daily
+disciplines, the periods of meditation and the visualization exercises,
+yogic practices he learned in South America but has since customized to
+suit Selene-worship. Where he'd once sat with a human partner straddling
+his lap, their breathing circling the energy up through his chakras,
+down through hers, he tries the same thing now while he imagines his
+moon-deity astride him and it feels the same, the same sense of a shared
+force circulating, and he knows it's mad, he knows it's tragic, this
+imaginary love, this compensatory delusion, but he feels her gathering
+substance, feels her striving to break through. He's reading Alexandra
+David-Neel, the writings on Tibet, paying particular attention to her
+plainly told firsthand account of manufacturing a tulpa, a
+projected-thought form pictured with such vivid and sustained ferocity
+that other people can perceive it too. Can touch it. If he ventures out
+to buy provisions she accompanies him, her imagined form becoming
+gradually more stable, still there if he looks away and back again, the
+naked lunar goddess on his arm between the parked cars and the privet
+hedge, Delvaux by daylight. It's a famous Abramelin side effect, like
+Crowley up at Boleskine with spirits thronging on the terraces. They
+chat while strolling, trade the trivia of the crossroads and he hears
+her voice, her childish wonderment at the municipal and the mundane
+before they head back for their Qi Gong practice in the empty old house.
+Home alone? \PAR
+Beyond his sphere of rapidly solidifying moonlight everyday life
+still goes on, but there's been a perspective switch. His moon-wife
+steadily gains actuality, but where's that coming from if i's not being
+siphoned somehow from reality itself? It seems that as his dream world
+has become more real, the real world has become a dream. There are
+urgent phone calls from the hilltop cactus club asking when Chris is
+coming home as it appears the treasurer has murdered his own mother and
+then tried to kill himself, Agatha Christie fiction, spatter on
+antimacassar and the spiny desert flora potted on a windowsill,
+green-grey, so difficult to dust. On the eleventh of the month he
+scrupulously makes his journal entry for that evening, noting length of
+time that meditations were sustained throughout the day with details of
+results, remarking casually in passing that apparently some hijacked
+planes have been flown into buildings in New York. His only comment is
+the observation that even apparently rock-solid mass consensual reality
+can flip into a new, unprecedented state as easily as can the shifting
+flow of situations in a dream or nightmare, just like that. He finishes
+the entry, stands and crosses to the window, blinking at the urban
+nebula suspended floating on the dark outside as he removes his
+spectacles and cleans them, wipes away the city that's reflected in each
+lens. Replacing them, he stands and listens to the silent bedroom for a
+moment, then he nods and chuckles in reply. Downstairs the
+woman-next-door's hall clock sounds the quarter hour. \PAR
+September ends, and with it the retreat. His brother returns with
+a suitcase full of rare African monsters and becomes the cactus club's
+new treasurer, takes over from the previous incumbent, now incarcerated.
+Life at Jim and Mary's 1930s dream home soon gets back to normal, but
+with a Greek goddess lodging there in the back bedroom. He cuts down the
+drinking drastically and keeps up the Selenic ritual practices in one
+form or another, even now his hermitry is ended. His relationship with
+her becomes domestic, comfortable, as his relationship with his
+imagination similarly sees improvements, unsurprisingly when that's the
+faculty in him she represents. He's cut back on the madrigals and the
+Elizabethan authors to immerse himself within an absinthe-haze of
+decadents. Théophile Gautier and Ernest Dowson and Richard Le Gallienne
+with that inspiring bifurcated afro'do. He's crafting some of his best
+work, revising \emph{Somnium} to weed out any self-indulgent soppiness
+and meanwhile making a return to US comic books with \emph{Jonni
+Future}, elegantly purging all the too rich scientific romance and
+delicious \emph{Planet Stories} cheesecake from his system in an
+unselfconscious paean to imaginative fantasy. He feels the goddess with
+him, he believes in her, of course he does, but he trained as a chemist.
+He's a \emph{Gemini}, the Lovers, solvé or analysis, and he can't let
+himself off the rationalist hook that easily. A King of Swords, he knows
+about the cutting edge of the discriminating intellect, knows about
+Occam and his razor. The most simple explanation for what's happening to
+him is obviously madness, the hypothesis requiring least elaborate
+unlikelihood or extra mathematical dimensions: he's a lonely old man on
+a hilltop who has lost his love, his bearings and his mind. A
+psychological denouement, no more sheltering in Todorov's convenient
+semantic stutter. No more hesitation. \PAR
+Only one way he can play it now and tha's Tibet rules. Only one
+way he can tell if she's a supernatural manifestation or the symptom of
+some brain disease, a tulpa or a tumour, and that's if somebody else can
+see her too. He takes the sullen, bad-complexioned Silverlink train up
+from Euston to Northampton, hails a cab from Castle Station and this
+whole account swerves unavoidably towards its Blackwood ending, stands
+revealed as a John Silence story all along, as \emph{Secret Worship,
+Ancient Sorceries}, but in a different idiom, a different century. The
+coy narrator makes another entrance, pads his part, prepares to wrap
+things up with a traditional voice-over finish. When the
+hackney-carriage brought a much-loved colleague of almost four decades
+to my doorstep on that evening, I could not anticipate the philosophical
+experiment in which I should be forced to act my part, nor yet the
+terrible and marvellous event to which I should be made a witness.' So
+he's sitting upright on my sofa, leaned against its back, his arms hung
+limp down by his sides, and he asks if I'm ready to begin and like a
+twat I say yes, and he shuts his eyes. \PAR
+ \emph{O chaire Selene. O chaire Selene. O chaire Selene. Oh no.
+On yes. On fuck she's blue, electric ultra-violet blue on be illuminated
+contours, see through in the shadows like a special-effects hologram.
+She's riding him, she's straddling his lap, her narrow back is turned
+towards me and she's nothing like her picture, nothing like the way he
+sees her and describes her. Skinny as a rake she looks about fifeen,
+looks Turkish, naked, not even a moon-crown, a stephane, there's just a
+narrow band around her forehead, holding back her long hair that's
+blue-black, not auburn, and there at the front a solitary peacock
+feather sticking up but curling to a crescent at its tip. O chaire
+Selene. O chaire Selene. O chaire Selene. There's a confusion where
+their arms are. He's got four, the two still limp there at his sides and
+the translucent pair raised up and circling her waist, ghostly
+ring-heavy fingers resting at the small of her thin back. Her arms are
+likewise wrapped around him, tucked beneath his raised-up phantom limbs
+and passing through his real ones.Her head rests on his right breast,
+cranes round to look back over her left shoulder at me sitting here and
+gaping and her eyes, her eyes, her eyes are the one thing I recognize
+from the framed image that he keeps beside his bed, takes with him if
+he's visiting. The gaze so full of sex and invitation and vitality that
+it's like stepping on a third rail, clenching both hands on a cattle
+fence, you can't let go, you can't let go. These are the violet eyes of
+beautiful Bohemia, this is the radiant face of Jazz herself and her
+perfume is Gaudi, is Magritte, is Baudelaire and Satie. Newgate's
+burning in the corners of her smile and we've all had her. There's no
+man or woman that I know who hasn't spent an hour, a night between her
+thighs lapping the moonfoam, drowning in her, worshipping, but not like
+him, not like this. She's theology in flames, her perfect archetypal
+arse a noon-blue apple shifting restless in his lap as she attempts to
+twist her torso round, fluorescence pooling in its hollows, tries to
+look at me across her shoulder, O chaire Selene, O chaire Selene, O
+chaire Selene and then he moves, he sits up on the sofa opening his eyes
+and she's dispersed, the signal breaks up in a luminous mauve talcum and
+we lose her \ldots{}} \PAR
+`This is no good. She keeps telling me she wants to change
+position.' \PAR
+I could see her. She was straddling your lap and you'd got four
+\emph{arms}, one pair up around her back and circling her waist. She'd
+got her head on your right shoulder. She was trying to turn it round and
+look back over her left shoulder at me. That was fucking unbelievable,
+man. Fucking awesome.' \PAR
+`Yeah, that's just how we were sitting, but she wouldn't keep
+still, she was twisting round and looking at you. She says that she
+wants ro get down off my lap so that she can sit facing you. Let me just
+put my glasses back on and get sorted.' \PAR
+The remainder of the evening passes in convivial, illuminating
+dialogue or sometimes trialogue, with funny and disarmingly frank
+interjections that he relays from the empty space beside him at one end
+of the settee. Come one o'clock and they make their apologies, go off to
+bed while I sit up and have another joint before retiring, give the
+singing violet fire a chance to drain out from my nerve ends. In the
+morning they go back to London, slyly travelling on a single ticket, and
+I've missed my opportunity for a dramatic
+Blackwood-Machen-Lovecraft-Hodgson ending to the piece. `Reader, I shot
+him.' No such luck. He's back on Shooters Hill completing his Selene
+study with a slew of comic projects looming up on the horizon, working
+his way through a fourth and maybe final draft of \emph{Somnium}. Huge
+milky fragments of the buried hilltop citadel continue to be dug out in
+his dreams, hauled up from trenches by departed uncles, faecal muck
+wiped from the cryptic, perfect bas-reliefs. He'll soon have enough
+pieces to completely reconstruct the lunar palace, to impose it with his
+will upon the summit, a magnesium ribbon whiteness flaring over Eltham,
+lighting up the Progress Estate that the Lawrence killers came from in
+all likelihood, where once were housed canaries, female Second World War
+munitions workers down from Woolwich Arsenal who'd been turned a
+brilliant yellow by the chemicals they handled. The eternal halls of
+Diana Regina reinstated thus, he'll walk beneath a grand triumphal
+archway where the relocated Bull now stands into a shining cloister,
+lose himself for ever in the whispering ballrooms, in the library of
+imaginary books, and that's the last that anyone shall see of him. Thin
+air's a possibility. His brother, Chris, wil end up being fingered for
+his disappearance, what with all the homicidal cactus club connections
+and the sinister glass eye, an open-and-shut case. \PAR
+He's happy. Yes, he's living in a dream but that's the deal, those
+are the rules, the only way that he can be with her. Rereading Keat's
+original \emph{Endymion} he notices the poet's curious additions to the
+myth, a woman that the virginal Endymion has an affair with who is
+somehow necessary to prepare him for his union with the goddess, this
+brief love-interest referred to only as `the Indian'. He thinks of his
+Brazilian beauty at her Qi Gong study centre and he wonders what to make
+of everything. There never was a shepherd called Endymion, no dream
+oracle in bygone Caria known by that name. These things, they only
+happen once, once in a blue moon. Latmos was a metaphor to represent the
+traffic-flume of Shooters Hill, its oracle caves rough-draft
+premonitions of his bedroom with its double-glazed mouth looking out
+across the ancient, sparkling city. He's Endymion. That's what the 4
+a.m. voice meant, 2 October 1976. It wasn't giving him a hint, it was
+identifying him. Keats's work was prophecy, a future legend channelled
+down the sightline linking Shooters Hill with Boxhill to the south. He's
+woken up to moonlight while the rest of us are still asleep, still
+tangled moaning in the clammy sheets of history and with vain phantoms
+keeping our unprofitable strife. \PAR
+It's Friday, 7 January 2005, and in the bedroom's neutral smudge
+Steve Moore turns on his back and coughs, opens his eyes, kisses the
+portrait miniature good morning with the night-steeped glass like
+cracked ice to his lips. He checks his I Ching horoscope, the daily
+hexagram, this morning's being Kuan, or `Contemplation', with its fifth
+line governing the week ahead. The text attached to this is
+Contemplation of my life. The superior man is without blame.' His
+breakfast is a muesli of heart pills in half a pint of decaf, health
+food, over which he mumbles a few words to Chris about arrangements for
+the shopping or the evening meal. The morning paper when it finally
+arrives is still awash with details of the Indonesian earthquake, surf's
+up, uh-huh, uh-huh, and so he goes upstairs to check his emails, to
+crack open the white Post ges envelope containing his crisp printout
+copy of this manuscript. He lies back on the bed to read it with some
+eagerness and trepidation, it's about him after all, and mostly he
+enjoys it, likes the writing even though it's libellous, especially the
+physical descriptions when hed previously believed himself to be a lithe
+Adonis in his early thirties. Some bits make him laugh, the passages
+concerning Westcliff and the failed Latin-American relationship elicit a
+faint wince, and some bits weird him out, especially this paragraph.
+Belatedly he realizes that it's the eleventh anniversary of that strange
+night back in the early 1990s when the roof came \emph{off}, hair of the
+snake that bit him. He reads on, and reckons that the next bit's taking
+liberties, it's cheeky and manipulative and what's worse it's cheating. \PAR
+He skims through these final pages, on to the conclusion, noting
+with increasing irritation and amusement that the narrative recounts how
+he concludes his reading, then goes out to take his morning
+constitutional along a route described precisely in the text that will
+deliver him to some lame and postmodern trompe-l'œil excuse for an
+ending, by the Brinklow Crescent burial mound. The thing is, even though
+he feels compelled to validate this true-up-until-now tale for the sake
+of friendship and his eye for a neat magical or literary conceit, he had
+been planning to go down the hill to the car-boot sale, see his personal
+Pirate of the Caribbean about hooky Hong Kong action DVDs, perhaps get
+better copies of some Shang-kwan Ling-feng movies he already has, but
+reading it spelled out in black and white like this he feels ashamed,
+deep in his wretched soul, that he should even think of abdicating his
+responsibility to furnish an important work with its appointed ending,
+just to further his embarrassing addiction to some Taiwanese
+bird-on-a-wire. \PAR
+Grudgingly he thuds downstairs and gets his jacket, calls from the
+back door to Chris down in the greenhouse, explains with some difficulty
+the complex and metaphysical necessity for his excursion, only halfway
+through remembering that this was mentioned in the story, in the
+manuscript. He stands on the rear doorstep and looks down the hillside
+garden's terraced slope towards the wire-wool-coloured cumulus
+approaching over London from the north, deciding that he d better take
+along his rolled umbrella, then recalls that this was mentioned too. He
+trudges back through kitchen, living room and hallway to step out into
+the sweet, familiar cul-de-sac. Insistently, the narrative demands that
+he walk up the footpath on to Shooters Hill Road. As he does so, on his
+right he passes near the bottleneck by which the close opens to
+Donaldson Road, just downhill, and thinks about the day last year when
+he'd glanced down towards the corner that he's crossing now from the
+front office window, Chris's coffin-room before their mum died and he
+moved into the big front bedroom. On the corner a blonde woman from some
+doors away that he knows well enough to say hello to was caught in a
+screaming fist-fight, possibly about a parking space or something, with
+a black girl from just down the street, before a neighbour came outside
+to intervene. The incident disturbed him, a behavioural lapse that the
+encircling houses hadn't seen before, not in his memory. Maybe with the
+working class dismantled or demoted to an underclass the hill's
+inhabitants dimly become aware they're on the bottom rung now, start
+reacting to the pressure from above just as their social predecessors
+did before them. He can feel a scummy tide-line creeping up the hillside
+as he walks along the short, dark corridor of trees that leads to
+Watling Street. How much of this tranquillity could wash away soon,
+could be gone? \PAR
+Stepping out on to Shooters Hill Road opposite the grimy gateposts
+of the old Memorial Hospital he pauses and considers a rebellion, thinks
+of turning downhill to his right rather than up towards his left, in
+flat defiance of the bullying manuscript's instructions, although
+actually it's pretty miserable down there. The daycare faculty for
+psychiatric outpatients at the old cottage hospital that's halfway down
+is boarded up, and at the bottom of the hill where the old gallows used
+to be the police station has been recently put up for sale. This is the
+spot Pepys mentioned back in 1661: 'I rode under a man that hangs at
+Shooters Hill, and a filthy sight it was to see how is the flesh shrunk
+from his bones? The Hanged Man symbolizes a protracted and uncomfortable
+initiation, Odin dangling on the tree nine nights, the lunar number, to
+acquire the runic wisdom of the Norns. Thinking about it, he decides to
+turn let after all and stroll towards the Bull, up Shooters, Shooter's,
+Sheters, Shiters, Shuters or Shotover Hill, or Shoter's Held, or
+Shouters Helle, this last bringing to mind his neighbours and their
+noisy corner punch-up. Down in Woolwich, down in Plumstead, these days
+there are Gangsta turf wars, drive-bys, shooters gradually reclaiming
+the high ground named after them. He feels a slow, insidious
+encroachment in the air, suppresses a faint shiver. Then again, it's
+January. \PAR
+Crossing Shrewsbury Lane where it joins the main road he walks on
+past the repositioned pub with Cretan crescent bull-horns raised up from
+its terracotta and a mounting block from the inn's old location further
+up the road cemented into place there by the kerb but wrong way up, set
+on its side with risers horizontal and treads vertical. It looks as if
+it's there for Escher's men or rolled-up centipedes to climb before they
+cross a pavement threshold and continue down among the water sources and
+sub-strata, down into the earth. A foot of topsoil, then a yard of dark
+brown clay, two feet of blue clay, thirteen feet of peat, river drift
+gravel eighteen feet, two feet of hard blue clay, soft yellow clay and
+sand in layers, one foot, and then forty feet down there's three yards
+that's hard grey sand with layers of tenacious clay of various hues, and
+shells, and under that there's dark green sand, round pebbles. Thanet
+sand and flint and chalk and intricately carved chunks of alabaster, the
+remains or germinating seeds of \emph{Somnium}. Yesod, the lunar dream
+realm of the kabbalists, the Hebrew word that means foundation and
+suggests a different, buried moon. He sighs and carries on past the
+attractive late-Victorian semi with the patterned, decorative brickwork,
+standing where the Bull originally stood, continues on by the amazing
+and apparently Carpathian water tower towards the Eaglesfield Road
+turning, just ahead and on his left. \PAR
+There on the corner, shabby and dilapidated, stands a handsome
+pre-war Modernist/Art Deco house. Four Winds, white-walled, flat-roofed,
+planning permission to demolish it and put up an apartment block long
+since applied for, probably not there much longer. Maybe this could be
+the house that Paul Buck's uncle lived in sixty years back. That was at
+this end of Eaglesfield Road, with a rumoured tunnel running from the
+air-raid shelter in his garden, underneath the road and into Castle
+Woods, another half-conjectural subsurface space. Earth movers,
+possibly, will find it while demolishing `Four Winds' but myth requires
+a fragile quantum state, breaks down into river-drift gravel if
+observed, so either way it's finished, unappealingly resolved, and so
+on. A kind of socio-historic wind ero-sion, wearing all the elevation's
+visions, hopes and mysteries to grit then flinging them away, that's
+what it is. Resigned, he heads down Eaglesfield Road with the golf
+course where his father died and brother worked across the road upon his
+right, and Eaglesfield itself rising there on his left, the open
+parkland where sometimes he will escort the goddess so that she can see
+the squirrels, the surprising childlike streak in her that takes some
+getting used to. Eighteen months ago or more she startled him by asking
+for a teddy bear, a tiny one in scale with her small portrait, made him
+visit Hamley's to acquire a costly Hermann number suiting her specifics.
+Figured this for a sure sign of his decline into dementia, then found
+out about the handmaidens of Artemis, the bearskin costumes that they
+used to wear, so maybe after all there's meaning, even in this
+second-childhood stuff, maybe there's signal in the noise. He passes on
+from Eaglesfield Road into Kinlet Road, then takes a left down Bushmoor
+Crescent past the current Shrewsbury House, re-sited from its previous
+location as the birthplace of piped coal gas and the home of Princess
+Charlotte, moved to this spot and once, years back, the location of the
+local library. He came here as a kid to plough through E. C. Eliot's
+\emph{Kemlo} series of juvenile space adventures with their wacky jacket
+copy. What's the mystery of the Martian Ghost Run? ``Bah! There
+\emph{is} no mystery. It's just a boy's imagination!'' laugh the chiefs
+of Space Satellite K, orbiting round the earth.' The subdued aisles were
+full of stars and rockets. \PAR
+At the crescent's end he turns left into Mereworth Drive, its
+impressively diverse variety of shrubs and hedges planted in neat border
+strips between the pavement and the road, a quaintness he associates
+with crumpets and the 1950s, fireside rugs and cumbersome spread copies
+of the \emph{Eagle}. A uniquely English dreamtime that is now almost
+extinct, the great diverse proliferation of imaginative periodicals gone
+with Dan Dare and Kemlo to oblivion. Bah! There \emph{is} no mystery.
+I's just a boy's imagination. From the drive he turns left into Plum
+Lane and there straight across the road is Brinklow Crescent and the
+grassy railed enclosure of the Bronze Age chieftain's burial mound, the
+skullfaced, lugworm-bearded god of Shooters Hill, the promised end of
+his perambulation, of the story. \PAR
+Why, he wonders, with the many resonant spots on the hilltop that
+there are to choose from, does his character-arc finish its parabola and
+dive into the dirt right here? Then he remembers the instructions in the
+will he had drawn up, his ashes to be strewn across the mound, a final
+fusion with the landscape he emerged from, one more angstrom added to
+the hill's height, some 411 feet, 8 inches, 85 points; 5 feet 1 inch
+higher than the gold cross of St Paul's Cathedral. When the smut and
+soot of him is rained into the foot of topsoil, with a bit of luck he'll
+filter down through the biodegraded remnants of the furze that great
+Linnaeus fell upon his knees and worshipped in, wrapped in a golden
+fleece of blossoms', down through all the brown and blue and yellow
+layers, through the solid and unrealized blueprint bore of 1810's
+projected tunnel under Shooters Hill to Blackheath, deep among the relic
+cupolas and shattered eggshell moon-domes of his downside palace, of his
+Nonsuch. \PAR
+He stands motionless upon the corner of Plum Lane and Mere-worth
+Drive, gazing at the hillock dead across the road uneasily and wishing
+he were done with this, squints homewards up Plum Lane to where it joins
+with Shrewsbury Lane, will take him back up to the Bull, the celebrated
+traveller's rest of eighteenth-century verse. 'At Zhooter's Hill we made
+a halt, for Polly's saddle was in vault; And Joe was dry, and so was I,
+but George was wondrous testy. Zo we went. Cherry, merry, into Kent,
+into Kent, Winking, blinking. down we went. An unexpected shudder
+ripples through him to his tingling soles and runs to ground, a horror
+that is startlingly physical. He wants to go home, winking, blinking,
+but the manuscript contains a final pointless action that is in all
+probability included for no other reason than to make him look and feel
+ridiculous. He hesitates. Resentfully he follows his concluding orders
+and rotates in a half-circle with his back now turned towards the
+sulking lump. Hes looking at an unremarkable semi-detached home very
+like his own, with on the left a massive oak tree that has overgrown the
+pavement, monstrous knuckled roots sunk in the tarmac put down to
+replace the slabs already ruptured and upturned. He wonders what to say
+if anyone emerges from the house and asks him why he's standing staring
+at it, please don't let it be some scared old woman who mistakes him for
+the still-at-large South London rapist, wonders how long he's expected
+to remain here. Feeling on his forehead the first splash of wet he
+creases it into a frown. \PAR
+OK, let's freeze the picture there. Let's formalize it as a frame
+description. Final panel: he stands facing us, a head-and-shoulders
+frontal close-up in the centre foreground, light precipitation forming
+on his spectacles, a look of mild annoyance in his eyes. In the
+mid-ground that's just behind him Plum Lane is a dark stripe of macadam
+running left to right across the picture roughly level with his
+shoulders, with above that a thin, pallid band of path before the
+railings and the dead grass of the barrow. In the upper background are
+first trees and then the roofs and chimneys of the houses slightly
+further down the slope, with overall the great reach of the brimming
+granite sky, its vapour masses heading south across the city and towards
+us. \PAR
+Pay attention to his spectacles, refracted light turning the
+puzzled eyes beyond the lenses into abstract clots of pearl and white.
+Just change the point of view a little, move an inch or so to one side
+or the other and the optical illusion fails. He comes to bits. You
+realize that the glasses are in fact a pair of dormer windows set into a
+housetop downhill, visible through parted trees that form the edges of
+his face, a patch of negative space strung across the gap between them.
+A wood pigeon swoops down through the area that formerly appeared to be
+his nose, his cheek, into the dappled sideburn shadows, and his swathe
+of silver hair is only raincloud mustering above the shiny tiles that
+were his brow. The corrugating wrinkles there beside his lips, the thin
+moustache and sparse goatee are random stains and shadows in the
+grave-mound's withered over-growth, vertical railings where there seemed
+to be lapels, his jacket melted into Plum Lane's damping tarmac and the
+whole Mae West room of his countenance disintegrates. No matter how much
+shifting back and forth you do, there on that dreadful corner just
+across the street from Brinklow Crescent, you won't find the magic spot
+again, won't bring him back in focus. There's nobody there, was never
+anybody there except a fluctuation in the visual purple, a perceptual
+misunderstanding, trick of moonlight. \PAR
+Presently the view of London is erased by weather. Rain comes
+clattering down in bright tin sheets on to the empty street.
+
+{[}Alan Moore{]}
+
+\end{document}
